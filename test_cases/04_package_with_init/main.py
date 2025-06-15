@@ -1,0 +1,2 @@
+import mypkg
+mypkg.VALUE
